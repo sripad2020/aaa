@@ -1,7 +1,7 @@
 Cancer T-Epitope Pred
 
     Authors-list
-  Sripad Rama Hebbar, Dhanushkumar T, Sunila BG, Karthick Vasudevan**
+  Sripad Rama Hebbar, Dhanushkumar T, Sunila BG, Karthick Vasudevan*
 
 
     Synopsis 
