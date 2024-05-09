@@ -49,3 +49,8 @@ The input protein sequence features will be extracted
 
 This image interprets the results regarding the kolaskar score and the chuncked epitopes, probability of being epitopes (1: epitope, 
 0: non-epitope) based on the trained models (3 models has been used for being an epitope atleast 2 models should recognise them as 1)
+
+
+
+![Screenshot 2024-05-09 190948](https://github.com/sripad2020/aaa/assets/59697056/fa5117df-6ddc-42b1-91b4-0b1428d2c02c)
+This image interprets the final result of epitope and and resultant HLA for that epitope and the score of particular epitope
