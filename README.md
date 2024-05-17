@@ -52,6 +52,7 @@ This image interprets the results regarding the kolaskar score and the chuncked 
 
 
 
-![Screenshot 2024-05-17 011013](https://github.com/sripad2020/aaa/assets/59697056/ba896b26-fda6-4c71-8f42-fa27f0031eb6)
+![Screenshot 2024-05-17 094557](https://github.com/sripad2020/aaa/assets/59697056/39f8f313-ee23-44ec-a672-903600e33ffe)
+
 
 This image interprets the final result of epitope and and resultant HLA for that epitope and the score of particular epitope
