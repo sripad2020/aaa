@@ -24,7 +24,8 @@ Input protein will be chunked, and features of those peptides will be generated.
       Getting started
   
  
-![Screenshot 2024-05-09 134319](https://github.com/sripad2020/aaa/assets/59697056/455e0f1f-592e-41df-86f9-3e32437667cb)
+![Screenshot 2024-05-17 095332](https://github.com/sripad2020/aaa/assets/59697056/a03aaa89-10e8-49bc-a2cf-5b389be1a43e)
+
 
 Inputs Requirements:
 1. Tumer antigen Protein sequence
