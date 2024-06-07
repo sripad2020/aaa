@@ -1,4 +1,4 @@
-Cancer T-Epitope Pred
+VaxOptiML
 
     Authors-list
   Sripad Rama Hebbar, Dhanushkumar T, Sunila BG, Karthick Vasudevan*
@@ -23,8 +23,9 @@ Input protein will be chunked, and features of those peptides will be generated.
 
       Getting started
   
- 
-![Screenshot 2024-05-17 095332](https://github.com/sripad2020/aaa/assets/59697056/a03aaa89-10e8-49bc-a2cf-5b389be1a43e)
+ <img width="589" alt="Screenshot 2024-06-07 050310" src="https://github.com/sripad2020/aaa/assets/44516308/d6922443-3fa2-4498-b5ee-b2a5dd72d619">
+
+
 
 
 Inputs Requirements:
